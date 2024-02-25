@@ -9,6 +9,6 @@ namespace Course.DataAccess.Concrete
 {
     internal class CourseDal
     {
-
+        aa
     }
 }
