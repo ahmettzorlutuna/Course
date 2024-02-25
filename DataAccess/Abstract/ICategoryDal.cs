@@ -9,5 +9,6 @@ namespace Course.DataAccess.Abstract
     internal interface ICategoryDal
     {
         string Name { get; }
+        string Description { get; }
     }
 }
