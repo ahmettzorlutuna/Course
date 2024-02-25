@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Course.DataAccess.Concrete
 {
-    internal class CourseDal
+    internal class CourseDal : ICourseDal
     {
 
     }
